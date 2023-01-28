@@ -1,11 +1,11 @@
 <img src="https://github.com/Arthur-Prudhomme/Arthur-Prudhomme/blob/main/retrowave-sun-mountains.jpg"/>
 
-<p align="center">Actuellement étudiant en deuxième année à l'IIM<br>
-Profondement passionné par la création et acharné de logique, j'aime voir les choses que j'ai créer fonctionner et s'animer<br>
-Je travaille beaucoup sur des projets aussi bien professionels que personnels<br>
-Je suis aussi un grand amateur de musique 80's, rock & metal</p>
+<p align="center">Currently second year student at IIM - Digital School Paris<br>
+Deeply passionate about creation and relentless in logic, I like to see the things I create work and come to life<br>
+I work a lot on both professional and personal projects.<br>
+I'm also a big fan of 80's, rock & metal music</p>
 
-<h3 align="center">Langages</h3>
+<h3 align="center">Languages</h3>
 
 <p align="center">
   <a href="https://www.w3schools.com/cs/">
@@ -73,7 +73,7 @@ Je suis aussi un grand amateur de musique 80's, rock & metal</p>
   </a>
 </p>
 
-<h3 align="center">Liens</h3>
+<h3 align="center">Links</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arthur-prud-homme/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="60" height="60"/> </a>
