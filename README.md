@@ -17,7 +17,7 @@ I'm also a big fan of 80's, rock & metal music</p>
   </a>
 
   <a href="https://www.w3schools.com/css/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   </a>
 
   <a href="https://www.php.net">
