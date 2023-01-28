@@ -1,6 +1,6 @@
 <h1 align="center">Arthur Prud'homme</h1>
 
-![Alt Text](https://github.com/Arthur-Prudhomme/Arthur-Prudhomme/blob/main/retrowave-sun-mountains.jpg)
+<img src="https://github.com/Arthur-Prudhomme/Arthur-Prudhomme/blob/main/retrowave-sun-mountains.jpg"/>
 
 <p align="center">Actuellement étudiant en deuxième année à l'IIM<br>
 Profondement passionné par la création et acharné de logique, j'aime voir les choses que j'ai créer fonctionner et s'animer<br>
