@@ -1,6 +1,3 @@
-<a href="https://www.linkedin.com/in/arthur-prud-homme/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
-<a href="https://arthur-prudhomme.github.io/Portfolio/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/FFFFFF/portfolio.png" alt="csharp" width="40" height="40"/> </a>
-
 <h1 align="center">Arthur Prud'homme</h1>
 
 ![Alt Text](https://github.com/Arthur-Prudhomme/Arthur-Prudhomme/blob/main/retrowave-sun-mountains.jpg)
@@ -76,4 +73,11 @@ Je suis aussi un grand amateur de musique 80's, rock & metal</p>
   <a href="https://www.mysql.com/fr/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   </a>
+</p>
+
+<h3 align="center">Liens</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arthur-prud-homme/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="60" height="60"/> </a>
+  <a href="https://arthur-prudhomme.github.io/Portfolio/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/FFFFFF/portfolio.png" alt="csharp" width="60" height="60"/> </a>
 </p>
