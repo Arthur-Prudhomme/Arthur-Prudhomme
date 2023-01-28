@@ -1,5 +1,3 @@
-<h1 align="center">Arthur Prud'homme</h1>
-
 <img src="https://github.com/Arthur-Prudhomme/Arthur-Prudhomme/blob/main/retrowave-sun-mountains.jpg"/>
 
 <p align="center">Actuellement étudiant en deuxième année à l'IIM<br>
