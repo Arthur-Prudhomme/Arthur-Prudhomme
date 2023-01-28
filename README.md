@@ -3,7 +3,7 @@
 ![Alt Text](https://github.com/Arthur-Prudhomme/Arthur-Prudhomme/blob/main/retrowave-sun-mountains.jpg)
 
 <p align="center">Actuellement étudiant en deuxième année à l'IIM<br>
-Profondement passioné par la création et acharné de logique, j'aime voir les choses que j'ai créer fonctionner et s'animer<br>
+Profondement passionné par la création et acharné de logique, j'aime voir les choses que j'ai créer fonctionner et s'animer<br>
 Je travaille beaucoup sur des projets aussi bien professionels que personnels<br>
 Je suis aussi un grand amateur de musique 80's, rock & metal</p>
 
