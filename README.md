@@ -1,6 +1,6 @@
 <img src="https://github.com/Arthur-Prudhomme/Arthur-Prudhomme/blob/main/retrowave-sun-mountains.jpg"/>
 
-<p align="center">Currently second year student at IIM - Digital School Paris<br>
+<p align="center">Currently third year student at IIM - Digital School Paris<br>
 Deeply passionate about creation and relentless in logic, I like to see the things I create work and come to life<br>
 I work a lot on both professional and personal projects.<br>
 I'm also a big fan of 80's, rock & metal music</p>
