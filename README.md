@@ -7,7 +7,7 @@
 - I'm a big fan of 80's, rock & metal music.
 
 # Links:
-[![LinkedIn](https://img.shields.io/badge/Portfolio-%23007ACC.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-prud-homme)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23007ACC.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-prud-homme)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23323330.svg?style=for-the-badge&logo=&logoColor=#FF7139)](https://arthur-prudhomme.github.io/Portfolio/)
 
 # Tech Stack:
